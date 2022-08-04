@@ -1,4 +1,4 @@
-# crud Operation Using GORM
+# Crud Operation Using GORM
 
 This is a sample GoLang project to learn the basic crud operarions with Database connection 
 
